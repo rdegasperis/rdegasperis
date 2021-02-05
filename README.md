@@ -1,16 +1,42 @@
-### Hi there 👋
+## Hi there 👋 | I'm Regina :octocat:
+----------------------------------------------------------
 
-<!--
-**rdegasperis/rdegasperis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### *I'm a ~~nearly~~ journalist begining a new journey to become a web Developer thanks to [Henry](https://www.soyhenry.com/)*
 
-Here are some ideas to get you started:
+🌱 During the Henry Bootcamp I've learned:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:zap:HTML
+
+:zap:CSS
+
+:zap:React
+
+:zap:React Native
+
+:zap:Redux
+
+:zap:JavaScript
+
+:zap:Bootstrap
+
+:zap:GIT   
+
+:zap:Express
+
+:zap:GraphQL
+
+---------------------------------------------------------
+
+
+### 🚀 Check out my last project with the Henry Team!! [Bomba App](https://bomba-ecommerce.web.app/) | Developed with React, Redux and Express 
+![bomba](https://user-images.githubusercontent.com/68707308/107060501-ce21df80-67b5-11eb-8896-5def971185da.png)
+
+```
+You can see the features as admin by logging in with : 
+email: admin@admin.com
+password: Admin123
+```
+
+----------------------------------------------------------
+### 📫 You can reach me through [LinkedIn](https://www.linkedin.com/in/regidegasperis/) 
+### :mailbox: Or by e-mail : degasperisr@gmail.com
