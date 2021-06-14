@@ -36,7 +36,6 @@ You can see the features as admin by logging in with :
 email: admin@admin.com
 password: Admin123
 ```
-
 ----------------------------------------------------------
 ### 📫 You can reach me through [LinkedIn](https://www.linkedin.com/in/regidegasperis/) 
 ### :mailbox: Or by e-mail : degasperisr@gmail.com
