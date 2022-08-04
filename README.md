@@ -36,6 +36,13 @@ You can see the features as admin by logging in with :
 email: admin@admin.com
 password: Admin123
 ```
+
+----------------------------------------------------------
+### ✍️ Check out my project about marketing for business [Quiero Comunicar](https://quiero-comunicar.pages.dev/) | Developed with React, CSS 
+![quiero-comunicar](https://user-images.githubusercontent.com/68707308/182901858-060a2dad-3af7-47eb-b0e5-1c1da769ce5e.png)
+
+
+
 ----------------------------------------------------------
 ### 📫 You can reach me through [LinkedIn](https://www.linkedin.com/in/regidegasperis/) 
 ### :mailbox: Or by e-mail : degasperisr@gmail.com
