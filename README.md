@@ -5,23 +5,13 @@
 
 🌱 During the Henry Bootcamp I've learned:
 
-:zap:HTML
+:zap:HTML         :zap:CSS
 
-:zap:CSS
+:zap:React        :zap:Redux
 
-:zap:React
+:zap:JavaScript   :zap:Bootstrap
 
-:zap:React Native
-
-:zap:Redux
-
-:zap:JavaScript
-
-:zap:Bootstrap
-
-:zap:GIT   
-
-:zap:Express
+:zap:GIT          :zap:Express
 
 :zap:GraphQL
 
